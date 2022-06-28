@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.leftNavBarTop{
+  display:flex;
+   width:20%;
+}
+.LeftNavBar{
+   display:flex;
+   justify-content: space-between;
+   width:100%;
+}
+   .rightSide{
+    margin-left:20%;
+
+   }
+
+
+  
