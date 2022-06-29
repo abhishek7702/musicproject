@@ -7,7 +7,7 @@ export default function LeftNavBar(){
     return (
         <div clasName="leftNavBarTop">
         <div className="LeftNavBar"  >
-       <List >
+       {/* <List >
         <ListItemButton>
     <ListItemText>
         <Link href="/" underline="none">Home</Link>
@@ -36,7 +36,7 @@ export default function LeftNavBar(){
       <Link href="/createPlaylist"  underline="none">CreatePlaylist</Link>
         </ListItemText>
        </ListItemButton>
-    </List>
+    </List> */}
     </div>
     </div>
     )

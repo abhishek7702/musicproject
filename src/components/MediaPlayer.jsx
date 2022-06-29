@@ -15,7 +15,7 @@ import ConnectedTvIcon from '@mui/icons-material/ConnectedTv';
 
 export default function MediaPlayer(){
     return(
-<div style={{display:"flex",textAlign:"center",justifyContent:"space-between", background:"pink",marginTop:"6.5%"}}>
+<div style={{display:"flex",textAlign:"center",justifyContent:"space-between", background:"pink",marginTop:"2%"}}>
 
 
 <div style={{display:"flex",width:"20%",justifyContent:"space-around"}}>

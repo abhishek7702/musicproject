@@ -11,10 +11,10 @@ function App() {
   return (
     <BrowserRouter>
     <Routes>
-      <Route path="/" element={<HomePage/>}/>
+      {/* <Route path="/" element={<HomePage/>}/>
       <Route path="/playlists" element={<Playlists/>}/>
       <Route path="/myLibrary"  element={<MyLibrary/>}/>
-      <Route path="/likedSongs"  element={<LikedSongs/>}/>  
+      <Route path="/likedSongs"  element={<LikedSongs/>}/>   */}
       <Route path="/createPlaylist"  element={<CreatePlaylist/>}/>  
     </Routes>
   </BrowserRouter>
